@@ -1,0 +1,38 @@
+/*
+Theme Name: Aqualine Child Theme
+Theme URI: http://aqualine.like-themes.com/
+Author: Like Themes
+Author URI: http://like-themes.com/
+Description: Blank Child Theme for Aqualine
+Template: aqualine
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: four-columns, right-sidebar, full-width-template
+Text Domain: aqualine
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.button, input[type="button"], input[type="submit"], .btn, .woocommerce button[name="update_cart"], .woocommerce input[name="update_cart"], .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+    border-radius: 25px;
+}
+.vc_custom_1618694957584 {
+    /* background-repeat: no-repeat !important; */
+    background-size: auto !important;
+}
+.iconogeysir{
+ /*  background: url(https://geysir.com.mx/wp-content/uploads/2019/06/icono01.png) no-repeat;
+   height: 230px; */
+}
+.transparencia{opacity: 0.2;}
+
+
+.footer-widget-area .logo {
+    max-width: 200px !important;
+}
+
+.ltx-go-top .txt {
+    margin-left: -10px !important;
+}
